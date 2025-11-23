@@ -1,0 +1,83 @@
+MEAN STACK
+-> M : MongoDB
+-> E : Express
+-> A: Angular
+-> N : Node.js
+
+Three Pillars:
+-> HTML: 
+-> CSS
+-> JS
+
+Other STACK
+MEAN , MERN, JAVA STACK, PYTHON
+
+WEB DEV -> some of the terms while you work in a company
+
+>> Building Team / Developers Team
+>> Testing Team (Manual Testers/ Automates tester)
+>> Hosting Team (Devops)
+>> Maintenance Team / Support
+
+SDFC (Software Development Team)
+>> Waterfall 
+>> Agile Model
+>> Spiral Model
+>> Iterative Model
+>> Incremental Model
+>> V shaped Model
+>> RAD ()
+
+
+URL(Uniform Resource Locator)=> 
+In order to get some resource over tapping the link or as a developer we say URL, 
+
+>> https://www.instagram.com
+>> eg->https://www.kashmiremporium.com/Brands
+>> https:education.riddhimaAcademy.edu/FullStack
+
+https: This is the protocol
+riddhimaAcademy: Server/Domian name
+education: subdomain
+edu: TLD (Top Level Domain)
+FullStack: Path/Location
+
+
+Protocol: 
+>>These are the set of rules/instructions
+    https:Hyper Text Transfer Protocol
+    https: Hyper text Transfer Protocol Secure
+    tcp:Transmission control Protocol
+    udp: user datagram protocol
+    smptp: simple mail Transfer protocol=> to transefer the mails , but these have some protocols to follow such as if we forget to write sender or receiver ...pop up window will show up.
+    ftp: file transfer protocol => to transfer file from one machine to other , we have some protocols, it can be wireless or wired transfer of protocol.
+    ip: internet protocol (ipv4 & ipv6)
+
+    real eg-> i am in ofc and i want to control my ac i.e in home . when i reach home i want to switch on the ac till i reach the home. 
+    without being present at home i can operate the ac By using the ios app
+
+
+Client / Web page ----(uname & upass) -----> Instagram Server
+SSL (Secure Socket Layer)  Certification
+
+
+Server/ Domain Name:
+    >> Unique Identification
+        >>eg : google 
+Sub-Domain Name: 
+    FOR EXAMPLE->
+    >>gmeet
+    >>gMaps
+    >>gDrive
+    >>Gmail
+    >>gPhotos
+    >>gChrome
+
+sub domain is written first before the domain name.
+
+
+
+
+
+
+
